@@ -1,0 +1,26 @@
+.Training .train, .Training .cert, .Training .ocr {
+  font-family: sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.Training ul li {
+  color: #07555a;
+}
+.Training .ocr {
+  background-color: #cc9f9f;
+}
+.Training .cert {
+  background-color: #8c8cc5;
+}
+.Training .train {
+  background-color: #8abe8a;
+}
+.Training p {
+  color: #07555a;
+}
+
+/*# sourceMappingURL=main.css.map */
